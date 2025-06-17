@@ -1,5 +1,5 @@
 # Quora-Clone
-# I craeted this project using REST APIs
+# I created this project using REST APIs
 ->REST are rules to CREATE APIs.
 #CRUD 
 ->CREATE, READ, UPDATE, DELETE.
