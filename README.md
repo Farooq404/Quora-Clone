@@ -18,6 +18,9 @@ This repository contains the code for a simple Quora-like web application that a
 - **Update Posts**: Edit the content of an existing post.
 - **Delete Posts**: Remove posts permanently.
 
+#Installation
+--Clone the repository--https://github.com/Farooq404/Quora-Clone.git
+
 ## Tech Stack
 
 - **Backend**: Node.js, Express.js
